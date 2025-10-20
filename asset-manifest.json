@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8ce505ce.css",
+    "main.js": "/Portfolio/static/js/main.1fcb0a3b.js",
+    "static/media/weather.png": "/Portfolio/static/media/weather.a52a78f5d5e855a2ebee.png",
+    "static/media/us-contact.png": "/Portfolio/static/media/us-contact.9ca88b8c6b1662bdc79b.png",
+    "static/media/where2.jpg": "/Portfolio/static/media/where2.8b20306f2aa36a8f0a98.jpg",
+    "static/media/recruitement.jpg": "/Portfolio/static/media/recruitement.169e9e322ba9944d0918.jpg",
+    "static/media/smartemsi.jpg": "/Portfolio/static/media/smartemsi.21c389672c7c80a10339.jpg",
+    "static/media/Qibtechss.png": "/Portfolio/static/media/Qibtechss.49aca5e2aedef2773a94.png",
+    "static/media/imggg.jpg": "/Portfolio/static/media/imggg.4716accf5531835b1f86.jpg",
+    "static/media/work.png": "/Portfolio/static/media/work.ea7520702e1efc63cfd6.png",
+    "static/media/home.png": "/Portfolio/static/media/home.27cd8f6dc7987e3cc18f.png",
+    "static/media/img-ilyass.jpg": "/Portfolio/static/media/img-ilyass.d0c974950ee38f63290c.jpg",
+    "static/media/us1.png": "/Portfolio/static/media/us1.133280d6fd0df806eb23.png",
+    "index.html": "/Portfolio/index.html",
+    "main.8ce505ce.css.map": "/Portfolio/static/css/main.8ce505ce.css.map",
+    "main.1fcb0a3b.js.map": "/Portfolio/static/js/main.1fcb0a3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce505ce.css",
+    "static/js/main.1fcb0a3b.js"
+  ]
+}
