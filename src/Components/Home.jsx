@@ -22,7 +22,7 @@ export default function Home() {
               style={{ fontWeight: "bold" }}
             >
               <Typewriter
-                words={["YOUNESS BAIT", " a Full Stack Developer."]}
+                words={["ELKHADRI Ilyass", " a Full Stack Developer."]}
                 loop={5}
                 cursor
                 cursorStyle='_'

@@ -41,10 +41,10 @@ export default function Contact() {
     setmessage("");
     emailjs
       .sendForm(
-        "service_z44n67i",
-        "template_erq4dtm",
+        "service_k840c9p",
+        "template_kqd3pqf",
         form.current,
-        "RQ4643Y8jr0NyOBLt",
+        "_5JxWRC0amnIawrJr",
       )
       .then(
         (result) => {
